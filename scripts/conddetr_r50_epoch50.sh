@@ -1,3 +1,4 @@
+#!/bin/cmd
 script_name1=`basename $0`
 script_name=${script_name1:0:${#script_name1}-3}
 
